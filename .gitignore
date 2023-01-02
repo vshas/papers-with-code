@@ -1,0 +1,8 @@
+
+# ignore the environment folder
+
+# Environments
+/myenv
+
+# Data
+*/data
